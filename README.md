@@ -1,4 +1,8 @@
-# Js-and-Ts-learning
+# JS_Learning
+
+مشروع تدريبي لتجميع وحل تكليفات JavaScript من مسار Elzero Web School — كل فصل في مجلد مستقل يحتوي ملف التحديات `theChallenge.md` وملفات الحلول داخل مجلدات فرعية (`ch_01`, `ch_02`, ...). الهدف هو بناء أساس قوي في JavaScript قبل الانتقال إلى TypeScript.
+
+**In English:** this repository is my JavaScript practice log from the Elzero Web School course — 14 chapters, each with its own challenge brief (`theChallenge.md`) and solution files, plus a `CodeWars/` folder for kata solutions. It is deliberately kept as a progress record: the README states what is finished and what still needs another pass.
 
 مشروع تدريبي لتجميع وحل تكليفات JavaScript من مسار Elzero Web School، مع تنظيم كل فصل في مجلد مستقل يحتوي على ملف التحديات `theChallenge.md` وملفات الحلول داخل مجلدات فرعية مثل `ch_01`, `ch_02`, وهكذا.
 
@@ -14,6 +18,7 @@
 | ملفات الحلول | ملفات `index.js` داخل مجلدات التكليفات الفرعية |
 | ملف HTML | يوجد ملف HTML في الفصل الثاني لتكليف التعامل مع DOM |
 | ملفات IDE | إعدادات `.idea` و `.vscode` خاصة ببيئة التطوير |
+| مجلد `CodeWars/` | ملف `ch_01.js` يحتوي حلول تحديات من منصة CodeWars |
 
 ---
 
